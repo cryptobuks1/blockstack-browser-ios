@@ -5,6 +5,9 @@
 Demo:
 https://www.youtube.com/watch?v=9zzyd141EKk
 
+For questions: 
+
+Julia Vi - julia_v2@hotmail.com
 
 Functionality:
 * Browsing names on the .id namespace
@@ -17,12 +20,12 @@ Functionality:
 <div>
  <img src="https://github.com/juliavi/blockstack-browser-ios/blob/master/list.PNG" width="250"/>
  &nbsp;
- <img src="https://github.com/juliavi/blockstack-browser-ios/blob/master/profile.PNG" width="250"/>
+ <img src="https://github.com/juliavi/blockstack-browser-ios/blob/master/search.PNG" width="250"/>
  &nbsp;
 </div>
 
 <div>
  <img src="https://github.com/juliavi/blockstack-browser-ios/blob/master/history.PNG" width="250"/>
  &nbsp;
-<img src="https://github.com/juliavi/blockstack-browser-ios/blob/master/search.PNG" width="250"/>
+<img src="https://github.com/juliavi/blockstack-browser-ios/blob/master/profile.PNG" width="250"/>
 </div>
